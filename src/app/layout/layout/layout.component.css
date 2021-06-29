@@ -1,0 +1,30 @@
+hr{
+    border-color: rgb(0, 0, 0);
+    border-width: 3px;
+    max-width: 65px;
+    margin: auto;
+}
+p{
+    font-size: 3rem;
+    font-weight: 600;
+    color: rgb(255, 244, 228);
+}
+
+.layout{
+    background: url(../../../assets/banner.jpg)  no-repeat;   
+    height: 100vh;
+    background-size: 100%;
+}
+
+.btn-xl{
+    border-radius: 5px;
+    
+}
+
+.bienvenidos{
+    margin-inline-end: 35px;
+}
+
+.btn{
+    margin-top: 200px;
+}
